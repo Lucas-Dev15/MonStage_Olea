@@ -9,7 +9,7 @@ public class HelloProvider {
 	}
 
 	public String getHello() {
-		return "Hello " + name;
+		return "Coucou " + name;
 	}
 
 }
